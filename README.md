@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/royal-hero.png" alt="Mohendra Dey — Arabian royal technology portfolio banner" width="100%"/>
+<img src="royal-hero.png" alt="Mohendra Dey — Arabian royal technology portfolio banner" width="100%"/>
 
 # ✦ MOHENDRA DEY ✦
 ### Undergraduate Researcher · Electronics & Communication Engineering
@@ -17,7 +17,7 @@
 
 ---
 
-<img src="./assets/hero.svg" alt="Royal animated introduction" width="100%"/>
+<img src="hero.svg" alt="Royal animated introduction" width="100%"/>
 
 ## 🏛️ About the Researcher
 
@@ -25,17 +25,17 @@ I am an Electronics & Communication Engineering undergraduate at **JIS College o
 
 > *Engineering today, for a smarter tomorrow.*
 
-<img src="./assets/about.svg" alt="About Mohendra" width="100%"/>
+<img src="about.svg" alt="About Mohendra" width="100%"/>
 
 ## ⚙️ Tech Arsenal
 
-<img src="./assets/tech-arsenal.svg" alt="Technology skills" width="100%"/>
+<img src="tech-arsenal.svg" alt="Technology skills" width="100%"/>
 
 **Working areas:** Python, C/C++, machine learning, deep learning, data science, Google Earth Engine, geospatial analysis, electronics, signal processing, quantum computing concepts, robotics, Three.js, WebGL, FastAPI, and Streamlit.
 
 ## 📚 Research & Publications
 
-<img src="./assets/research-vault.svg" alt="Research publications" width="100%"/>
+<img src="research-vault.svg" alt="Research publications" width="100%"/>
 
 1. **“Nano-relativistic Influence of Bismuth (Bi) Atoms in Nano-electronic Donor-Doped Technology”** — IEEE 2026. [DOI](https://doi.org/10.1109/SIGNASS67826.2026.11479996)
 2. **“Simplified Theory and Direction for Experimental Resolution of the Einstein Bond in Quantum Wires”** — MSAST 2025. ISBN: `978-81-981948-5-5`.
@@ -43,7 +43,7 @@ I am an Electronics & Communication Engineering undergraduate at **JIS College o
 
 ## 🧪 Selected Projects
 
-<img src="./assets/projects.svg" alt="Selected research and engineering projects" width="100%"/>
+<img src="projects.svg" alt="Selected research and engineering projects" width="100%"/>
 
 | Project | Focus |
 |---|---|
@@ -56,7 +56,7 @@ I am an Electronics & Communication Engineering undergraduate at **JIS College o
 
 ## 🏅 Achievements & Recognition
 
-<img src="./assets/achievements.svg" alt="Awards and recognitions" width="100%"/>
+<img src="achievements.svg" alt="Awards and recognitions" width="100%"/>
 
 - **India Book of Records Achiever (2025):** recognition for conceptualising and publishing original scientific theories.
 - **Young Scientist India, 11th Edition (2025):** Grand Finale Finalist.
@@ -65,7 +65,7 @@ I am an Electronics & Communication Engineering undergraduate at **JIS College o
 
 ## 🔭 IISc Bangalore · 2027
 
-<img src="./assets/iiscresearch.svg" alt="IISc Bangalore research selection for 2027" width="100%"/>
+<img src="iiscresearch.svg" alt="IISc Bangalore research selection for 2027" width="100%"/>
 
 **Selected for 2027 — Research Internship, Plasma Applications Lab, Department of Electrical Engineering, Indian Institute of Science (IISc), Bengaluru.**
 
