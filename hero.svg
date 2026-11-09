@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-labelledby="title desc">
+<title id="title">Mohendra Dey — Royal Researcher</title><desc id="desc">Arabian royal dark navy and antique gold portfolio graphic for Mohendra Dey.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050916"/><stop offset=".55" stop-color="#0b1730"/><stop offset="1" stop-color="#03050d"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0b0"/><stop offset=".45" stop-color="#d9a441"/><stop offset="1" stop-color="#8b5a16"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1d8dff"/><stop offset="1" stop-color="#63d8ff"/></linearGradient>
+ <pattern id="geo" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M22 2L42 22 22 42 2 22Z M22 10L34 22 22 34 10 22Z" fill="none" stroke="#c18b34" stroke-opacity=".12" stroke-width="1"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="100%" height="100%" rx="22" fill="url(#bg)"/><rect width="100%" height="100%" rx="22" fill="url(#geo)"/>
+<rect x="7" y="7" width="986" height="246" rx="18" fill="none" stroke="url(#gold)" stroke-width="2"/>
+<path d="M25 42Q25 18 50 18H950Q975 18 975 42" fill="none" stroke="#d9a441" stroke-opacity=".6"/>
+
+<g fill="none" stroke="url(#gold)" stroke-width="2" opacity=".8"><path d="M50 220V105Q50 35 125 35Q200 35 200 105V220"/><path d="M800 220V105Q800 35 875 35Q950 35 950 105V220"/></g>
+<g fill="#f7d98c" opacity=".9"><circle cx="125" cy="68" r="3"/><circle cx="875" cy="68" r="3"/><path d="M500 20l9 14-9 14-9-14Z"/></g>
+<text x="500" y="87" text-anchor="middle" fill="url(#gold)" font-family="Georgia,serif" font-size="48" font-weight="bold">MOHENDRA DEY</text>
+<text x="500" y="125" text-anchor="middle" fill="#fff1cf" font-family="Georgia,serif" font-size="22">Undergraduate Researcher</text>
+<text x="500" y="155" text-anchor="middle" fill="#d8e5ff" font-family="Arial,sans-serif" font-size="16">Electronics &amp; Communication Engineering</text>
+<text x="500" y="190" text-anchor="middle" fill="#e8bd63" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">AI/ML  ✦  APPLIED PHYSICS  ✦  QUANTUM  ✦  SIGNAL PROCESSING</text>
+<text x="500" y="225" text-anchor="middle" fill="#fff4dc" font-family="Georgia,serif" font-size="14" font-style="italic">Where Science Meets Royalty</text>
+<g fill="none" stroke="#248bff" stroke-width="1.5" opacity=".8"><ellipse cx="500" cy="106" rx="300" ry="95"><animateTransform attributeName="transform" type="rotate" from="0 500 106" to="360 500 106" dur="28s" repeatCount="indefinite"/></ellipse></g>
+
+</svg>

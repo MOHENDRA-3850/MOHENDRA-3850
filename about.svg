@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="title desc">
+<title id="title">About Mohendra Dey</title><desc id="desc">Arabian royal dark navy and antique gold portfolio graphic for Mohendra Dey.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050916"/><stop offset=".55" stop-color="#0b1730"/><stop offset="1" stop-color="#03050d"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0b0"/><stop offset=".45" stop-color="#d9a441"/><stop offset="1" stop-color="#8b5a16"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1d8dff"/><stop offset="1" stop-color="#63d8ff"/></linearGradient>
+ <pattern id="geo" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M22 2L42 22 22 42 2 22Z M22 10L34 22 22 34 10 22Z" fill="none" stroke="#c18b34" stroke-opacity=".12" stroke-width="1"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="100%" height="100%" rx="22" fill="url(#bg)"/><rect width="100%" height="100%" rx="22" fill="url(#geo)"/>
+<rect x="7" y="7" width="986" height="246" rx="18" fill="none" stroke="url(#gold)" stroke-width="2"/>
+<path d="M25 42Q25 18 50 18H950Q975 18 975 42" fill="none" stroke="#d9a441" stroke-opacity=".6"/>
+
+<text x="48" y="58" fill="url(#gold)" font-family="Georgia,serif" font-size="29">✦  THE RESEARCHER'S NOTEBOOK</text>
+<text x="50" y="105" fill="#f4f0e8" font-family="Arial,sans-serif" font-size="18">An ECE undergraduate exploring intelligent systems, applied physics,</text>
+<text x="50" y="136" fill="#f4f0e8" font-family="Arial,sans-serif" font-size="18">and interdisciplinary engineering through research and practical builds.</text>
+<text x="50" y="181" fill="#e8bd63" font-family="Georgia,serif" font-size="19" font-style="italic">“Engineering today, for a smarter tomorrow.”</text>
+<g transform="translate(770 65)" fill="none" stroke="url(#gold)" stroke-width="3"><path d="M0 100V35Q0 0 65 0Q130 0 130 35V100"/><path d="M22 100V43Q22 20 65 20Q108 20 108 43V100"/><path d="M65 26l15 15-15 15-15-15Z"/></g>
+
+</svg>

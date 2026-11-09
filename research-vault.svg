@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+<title id="title">Research and Publications</title><desc id="desc">Arabian royal dark navy and antique gold portfolio graphic for Mohendra Dey.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050916"/><stop offset=".55" stop-color="#0b1730"/><stop offset="1" stop-color="#03050d"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0b0"/><stop offset=".45" stop-color="#d9a441"/><stop offset="1" stop-color="#8b5a16"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1d8dff"/><stop offset="1" stop-color="#63d8ff"/></linearGradient>
+ <pattern id="geo" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M22 2L42 22 22 42 2 22Z M22 10L34 22 22 34 10 22Z" fill="none" stroke="#c18b34" stroke-opacity=".12" stroke-width="1"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="100%" height="100%" rx="22" fill="url(#bg)"/><rect width="100%" height="100%" rx="22" fill="url(#geo)"/>
+<rect x="7" y="7" width="986" height="246" rx="18" fill="none" stroke="url(#gold)" stroke-width="2"/>
+<path d="M25 42Q25 18 50 18H950Q975 18 975 42" fill="none" stroke="#d9a441" stroke-opacity=".6"/>
+
+<text x="48" y="58" fill="url(#gold)" font-family="Georgia,serif" font-size="29">✦  RESEARCH VAULT</text>
+<g font-family="Arial,sans-serif" font-size="17" fill="#f4f0e8">
+<text x="55" y="108">01  Nano-relativistic Influence of Bismuth Atoms</text><text x="90" y="133" fill="#e8bd63">IEEE 2026  ·  DOI: 10.1109/SIGNASS67826.2026.11479996</text>
+<text x="55" y="172">02  Einstein Bond in Quantum Wires</text><text x="90" y="197" fill="#e8bd63">MSAST 2025  ·  ISBN: 978-81-981948-5-5</text>
+<text x="55" y="236">03  Hybrid Deep Learning for EEG Signal Classification</text>
+</g><g transform="translate(860 95)" fill="none" stroke="url(#gold)" stroke-width="3"><path d="M0 0h70v120H0z"/><path d="M12 22h46M12 42h46M12 62h46M12 82h32"/></g>
+
+</svg>
